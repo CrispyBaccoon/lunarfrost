@@ -5,7 +5,7 @@
 
 ---@type lunarfrost.types.colors
 _G.lunarfrost_colors = {
-  bg0_hard = { "#171921", 0 },
+  bg0_hard = { "#191C24", 0 },
   bg0      = { "#1D2129", 0 },
   bg0_soft = { "#22252E", 0 },
   bg1      = { "#252933", 8 },
